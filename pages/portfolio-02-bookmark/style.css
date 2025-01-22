@@ -1,0 +1,152 @@
+.hero__bookmark {
+  width: 1110px;
+  height: 500px;
+  margin-top: 90px;
+  margin-bottom: 150px;
+  margin-left: 165px;
+}
+
+.container__bookmark--01 {
+  display: flex; 
+  gap: 200px;
+  width: 1156px;
+  height: 1450px;
+  margin-left: 165px;
+}
+
+aside {
+  width: 350px;
+  height: 400px;
+}
+
+.bookmark__text--01 h2 {
+  width: 350px;
+  height: 42px;
+  margin-top: 80px;
+  text-transform: capitalize;
+}
+
+.bookmark__text--01 p {
+  width: 350px;
+  height: 120px;
+  opacity: 0.8px;
+  margin-bottom: 32px;
+  margin-top: 16px;
+
+  font-family: "Public Sans", sans-serif;
+  font-size: 16px;
+  line-height: 30px;
+  text-align: left;
+
+}
+
+.bookmark__project--01 {
+  width: 635px;
+  height: 900px; 
+}
+
+.bookmark__project--01 img {
+  width: 635px;
+  height: 400px;
+  margin-top: 70px;
+}
+
+.bookmark__project--01 h3 {
+  text-transform: capitalize;
+  font-family: "Ibarra Real Nova", sans-serif;
+  font-size: 32px;
+  height: 42px;
+  line-height: 42px;
+  text-align: left;
+  margin-top: 60px;
+  margin-bottom: 16px; 
+}
+
+.bookmark__project--01 p {
+  font-family: "Public Sans", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 30px;
+  text-align: left;
+
+  width: 635px;
+  height: 180px;
+  top: 70px;
+  opacity: 0.8px;
+}
+
+.bookmark__tools {
+  display: flex;
+  padding-top: 30px;
+  margin-bottom: 70px;
+
+  width: 350px;
+  height: 30px;
+}
+
+strong {
+  font-family: "Public Sans", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 30px;
+  text-align: left;
+  color: #5FB4A2;
+
+}
+
+.button__visit-01 {
+  width: 178px;
+  height: 48px;
+  text-transform: uppercase;
+
+  font-family: "Public Sans", sans-serif;
+  font-size: 12px;
+}
+
+.previous__project {
+  display: flex;
+  gap: 800px;
+  margin-left: 165px;
+  margin-top: 70px;
+}
+
+
+.previous-__project--link02 {
+  display: inline-block;
+  margin-left: 20px;
+}
+
+.manage-text,
+.insure-text {
+  font-family: "Ibarra Real Nova", sans-serif;
+  font-size: 32px;
+  line-height: 36px;
+  text-transform: capitalize;
+}
+
+.previous__text,
+.next__text {
+  font-family: "Public Sans", sans-serif;
+  font-size: 16px;
+  line-height: 30px;
+  text-transform: capitalize;
+  opacity: 50%;
+}
+
+.next__projetc--link {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+.container__contact {
+  margin-top: 250px; 
+}

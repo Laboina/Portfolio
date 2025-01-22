@@ -1,0 +1,167 @@
+.container {
+  max-width: 1111px;
+  width: 100%;
+  margin: auto;
+  padding: 32px;  
+}
+
+.header__container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header__nav {
+  display: flex;
+  gap: 32px; 
+  align-items: center;
+}
+
+.header__nav a {
+  text-transform: uppercase;
+  font-size: 12px;
+}
+
+.hero__image {
+  max-width: 1200px;
+  width: 100%;
+  margin-top:150px; 
+  padding-left: 165px;
+}
+
+.background__hero {
+  position: relative;
+  width: 100%;
+  height: 600px;
+  overflow: hidden;
+}
+
+.background__hero img {
+  max-width: 1110px;
+  margin-left: 165px;
+  position: absolute;
+}
+
+.background__superior {
+  width: 445px;
+  height: 357px;
+  background-color: #fafafa;
+  position: absolute;
+  margin-top: 240px;
+  margin-left: 165px;
+}
+
+.background__superior p {
+  font-family: "ibarra nova real", sans-serif;
+  font-weight: 700;
+  font-size: 50px;
+  margin: 56px 27px;
+  line-height: 50px;
+}
+
+
+.aside {
+  max-width: 1012px;
+  height: 676px;
+}
+
+.aside img {
+  width: 540px;
+  height: 600px;
+  margin: 211px 165px; 
+}
+
+.profile__config {
+  display: flex;
+}
+
+.rectangle {
+  margin-top: 220px;
+  width: 430px;
+  border: 1px solid #33323d;
+  opacity: 15%; 
+}
+.profile__title {
+  margin-top: 50px;
+  height: 42px;
+  font-weight: 700;
+  font-family: "ibarra real nova", sans-serif;
+}
+
+.profile__text {
+  font-size: 16px;
+  line-height: 30px;
+  opacity: 80%;
+}
+
+.profile__btn {
+  width: 204px;
+  height: 48px;
+  margin: 40px 165px;
+  text-transform: uppercase;
+  font-size: 12px;
+  font-family: "public sans", sans-serif;
+}
+
+.rectangle__bottom {
+  margin-top: 110px;
+  margin-bottom: 200px;
+  width: 430px;
+  border: 1px solid #33323d;
+  opacity: 15%; 
+}
+
+.contact {
+  display: flex; 
+}
+
+.contact__text {
+  color:#33323d;
+  width: 367px;
+  height: 84px; 
+  line-height: 42px;
+  margin-left: 165px;
+  font-size: 40px;
+  font-weight: 700;
+  font-family: "ibarra real nova", sans-serif;
+}
+
+.text__btn {
+  width: 168px;
+  height: 48px;
+  margin-left: 600px;
+  text-transform: uppercase;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  width: 1440px;
+  height: 80px;
+  margin-top: 150px;
+  background-color: #33323d;
+  padding: 33px 165px;
+}
+
+.menu__footer img {
+  width: 61px;
+  height: 32px;
+}
+
+.menu__footer {
+display: flex;
+font-family: "Public Sans", sans-serif;
+font-size: 12px;
+line-height: 14.1px;
+letter-spacing: 2px;
+text-align: left;
+margin-left: 24px;
+color: #fff; 
+text-transform: uppercase;
+gap: 16px; 
+}
+
+.menu__social {
+  width: 104px;
+  height: 24px;
+}
